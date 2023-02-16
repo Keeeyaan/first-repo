@@ -1,7 +1,9 @@
 "# first-repo" 
 
-##Updating
+## Updating
 
-##cloning
+## cloning
 
-##updating from remote
+## updating from remote
+
+## another updating from remote
